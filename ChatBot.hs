@@ -1,4 +1,5 @@
-module ChatBot
 
-main = putStrLn "Good morning, Dave."
+module ChatBot where
+
+main = putStrLn "Good morning, Dave"
 
