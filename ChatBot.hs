@@ -3,6 +3,6 @@ module ChatBot where
 
 main = do
   greeting
-  putStrLn ", Dave"
+  putStrLn "Dave"
 
-greeting = putStr "Good morning"
+greeting = putStr "Good morning, "
