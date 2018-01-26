@@ -5,4 +5,4 @@ main = do
   greeting
   putStrLn ", Dave"
 
-greeting = putStr "Good morning"
+greeting = putStr "G'day"
